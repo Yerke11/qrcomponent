@@ -20,7 +20,7 @@ My submit for the QR component from frontendmentor challenges
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://yerke11.github.io/qrcomponent/
 
 
 ## My process
@@ -53,7 +53,7 @@ I would like to continue the development of the component by adding style compon
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+
 - Frontend Mentor - [@yerke11](https://www.frontendmentor.io/profile/yerke11)
 
 
